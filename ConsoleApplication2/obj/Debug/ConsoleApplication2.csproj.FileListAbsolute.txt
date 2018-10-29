@@ -1,0 +1,10 @@
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\InterSystems.CacheExtreme.dll
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\InterSystems.Data.CacheClient.dll
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\InterSystems.CacheExtreme.xml
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\InterSystems.Data.CacheClient.xml
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\mykhailovai\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
